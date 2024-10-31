@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+.mptadmin TH {text-align: right; padding-right: 5px;}
+.mptadmin INPUT[type=text] {width: 200px;}
+.form-table {clear: none;}
+.mptadmin LI {padding-left:20px; list-style-type: disc; list-style-position: inside;}
+.mptadmin .new {color: #f80303; font-weight: bold;}
